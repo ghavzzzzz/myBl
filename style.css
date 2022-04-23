@@ -1,0 +1,14 @@
+.body_ckgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas
+{
+  border-width: 10px; 
+  background-color: rgb(255, 255, 255);
+  border-style: ridge;
+  border-color: darkviolet;
+}
+
